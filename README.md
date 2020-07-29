@@ -10,3 +10,5 @@
 <p>Need to consider what this means alongside quad-dominance</p>
 <a href="https://www.health.harvard.edu/staying-healthy/are-your-hamstrings-working-double-duty">Sedentary or Active Lifestyle</a>
 <p>A more sedentary lifestyle causes weaker hamstrings</p>
+<a href="https://runnersconnect.net/the-ultimate-guide-to-shin-splints-for-runners/#:~:text=The%20body%20responds%20to%20the,high%2Dimpact%20activity%20like%20running.">Shin Splints</a>
+<p>Shin splints are more common in newer runners</p>
